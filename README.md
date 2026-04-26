@@ -1,8 +1,14 @@
 # Hey, I'm Krish 👋
 
-Pre-final year Integrated MSc Chemistry student at NIT Surat — self-taught in AI/ML over the past 2 years.
+Transitioned into AI/ML over the past 2 years through self-learning, research internships at IITs, and hands-on projects — currently a Pre-final year Int. MSc Chemistry student at NIT Surat.
+
+At IIT-TP, built an Aphasia detection and severity prediction model using transcripts of clinical patient-therapist conversations — trained exclusively on patient speech data.
 
 I build end-to-end ML and GenAI projects, from model training to deployment.
+
+## 🔬 Currently Working On
+
+*A modular AI framework to facilitate fluorophore design*, under the guidance of my professor.
 
 ---
 
