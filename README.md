@@ -8,7 +8,7 @@ I build end-to-end ML and GenAI projects, from model training to deployment.
 
 ## 🔬 Currently Working On
 
-*A modular AI framework to facilitate fluorophore design*, under the guidance of my professor.
+*A modular AI framework to facilitate near-IR fluorophore design*, under the guidance of my professor.
 
 ---
 
